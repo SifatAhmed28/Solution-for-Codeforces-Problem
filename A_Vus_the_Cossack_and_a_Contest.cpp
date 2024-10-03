@@ -1,8 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 int main(){
-    long long n,m,k;
-    cin>>n;
+    int n,m,k;
+    cin>>n>>m>>k;
     if((n<=m) && (n<=k)) cout<<"Yes";
     else cout<<"No";
 }
