@@ -57,13 +57,11 @@
     {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
-      
       "request": "launch",
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
       "cwd": "d:/vs code/Solution-for-Codeforces-Problem",
-     
       "program": "d:/vs code/Solution-for-Codeforces-Problem/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
